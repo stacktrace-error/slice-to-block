@@ -22,7 +22,7 @@ To define colors to be swapped, create a layer called `swaps` with the affected 
 Unused colors, layer position, visibility, and settings do not matter. If frames are used, the script will use the active frame's `swaps`.
 
 
-Trigger the script either by pressing your keybind, or selecting it in `File` > `Scripts`
+Trigger the script either by pressing your keybind, or selecting it in `File` > `Scripts`.
 It clears everything but the following slice of the selected layer/cel, and then copies the remaining part to all corners, to remove asymmetries.
 
 ![image](https://github.com/user-attachments/assets/fe2a2b65-ab0d-40c9-b5c5-f87cd2fc397f)
