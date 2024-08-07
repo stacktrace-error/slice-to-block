@@ -23,8 +23,9 @@ Unused colors, layer position, visibility, and settings do not matter. If frames
 
 
 Trigger the script either by pressing your keybind, or selecting it in `File` > `Scripts`.
-It clears everything but the following slice of the selected layer/cel, and then copies the remaining part to all corners, to remove asymmetries.
+Your sprite should be square and trimmed to the block you want to shade.
+Everything but the following slice of the selected layer/cel will be removed, and the remaining part copied to all corners, to remove asymmetries.
 
 ![image](https://github.com/user-attachments/assets/fe2a2b65-ab0d-40c9-b5c5-f87cd2fc397f)
 
-This can be seen when undoing the individual actions, which, despite being triggered by one press, are still seperate. This may be remedied in the future.
+This can be seen when undoing the individual actions, which, despite being triggered by one press, are still seperate. May be remedied in the future.
