@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/26d2f0c9-674e-4e14-8596-28b9850e4c18
 
 
 ## Installation
-Download the script, then open your scripts folder:
+Download the script [here](https://github.com/stacktrace-error/slice-to-block/releases), then open your scripts folder:
 
 ![image](https://github.com/user-attachments/assets/a26528ca-65e7-4b46-8668-f356fc621c1c)
 
