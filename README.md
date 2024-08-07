@@ -28,4 +28,5 @@ Everything but the following slice of the selected layer/cel will be removed, an
 
 ![image](https://github.com/user-attachments/assets/fe2a2b65-ab0d-40c9-b5c5-f87cd2fc397f)
 
-This can be seen when undoing the individual actions, which, despite being triggered by one press, are still seperate. May be remedied in the future.
+
+## Thank you to YellowAfterlife for making the original mirror shade script, and stabu_ for helping me condense the script into one step!
