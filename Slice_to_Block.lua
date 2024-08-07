@@ -33,7 +33,7 @@ while i < shImg.height do
 	i = i + 1
 end
 
-
+app.transaction(function()
 --Turn the block into an 8th.
 img = cel.image:clone()	
 local pos = cel.position
@@ -94,3 +94,4 @@ for _, arr in pairs(shades) do
 	end
 end
 cel.image = img
+end)
